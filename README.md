@@ -1,5 +1,5 @@
-# Cola JUnit
-Cola para ajudar o desenvolvimento da prova de JUNit
+# Resumo JUnit
+Resumo para ajudar o desenvolvimento da prova de JUNit
 -
 
 --------------------------------
@@ -60,5 +60,5 @@ Para rodar um teste por vez podemos ir na lateral esquerda do método e clicar n
 
 -----------------------------------
 
-Aproveitem meus crias que eu estava me sentindo generoso hoje.
+Aproveitem o resumo meus amigos.
 -
